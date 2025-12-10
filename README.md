@@ -9,7 +9,6 @@ three dependent sub-modules, and a testbench for functional verification.
 - design_top.v
 - module1.v
 - module2.v
-- module3.v
 - testbench.v
 
 ## Tools Used
